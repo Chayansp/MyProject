@@ -9,5 +9,5 @@ This repository showcases my journey through various coding practices and freela
   project is bitfinexfetch.py,  coinonefetch.py
 ### Data engineer project
 - This section contains the End-to-end data pipeline from extracting data from the data source, transforming the data to be usable and uploading to data warehouse.
-### Personal perject
+### Personal project
 - This section collect the project was inspired directly from my real-world job task, where I identified an opportunity to automate a repetitive business process using data engineering and data analyst skills.
